@@ -32,7 +32,7 @@ This **Mobile Sales Dashboard** provides a comprehensive overview of sales perfo
 
 | Visual | Description |
 |--------|-------------|
-| ![Dashboard Preview](images/mobile-sales-dashboard-preview.png) | Main dashboard showing KPIs and visuals |
+| ![Dashboard Preview](Mobile_sales_dashboard.png) | Main dashboard showing KPIs and visuals |
 | **Map View** | Total sales by city using geo-mapping |
 | **Line Chart** | Monthly quantity trends across the year |
 | **Pie Chart** | Transactions grouped by payment method (UPI, cards, cash) |
